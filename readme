@@ -1,3 +1,5 @@
 first make MediaCodec project
 copy libmediacommon.so file to LD_LIBRARY_PATH directory:wqa
 
+
+add test file
